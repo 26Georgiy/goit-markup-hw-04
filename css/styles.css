@@ -177,7 +177,7 @@ footer a:hover {
 }
 .nav-list-item a::after {
   content: "";
-  position: relative;
+  position: absolute;
   bottom: -26px;
   left: 0;
   width: 100%;
